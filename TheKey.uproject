@@ -13,6 +13,11 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "ScreenSpaceFogScattering",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/260929cfa39b43238302154c98311fc7"
 		}
 	],
 	"TargetPlatforms": [
